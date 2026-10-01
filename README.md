@@ -2,10 +2,10 @@
 **A dynamic resume builder with real-time preview and theme customization**  
 
 ## Features  
-- ** Dark/Light Mode** - Toggle between themes with CSS variables  
-- ** Real-time Preview** - Instant updates as you type  
-- ** Export Options** - Print or save as PDF  
-- ** Responsive Design** - Works on all devices  
+- **Dark/Light Mode** - Toggle between themes with CSS variables  
+- **Real-time Preview** - Instant updates as you type  
+- **Export Options** - Print or save as PDF  
+- **Responsive Design** - Works on all devices  
 
 ##  Technologies  
 `React 18` `Hooks` `react-to-print`  
